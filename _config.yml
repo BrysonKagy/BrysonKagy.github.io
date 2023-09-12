@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  - {url: "/assets/cv_darges.pdf", title: CV}
  - {title: "Publications", file: "publications.md"}
  - {title: "Research", file: "research.md"}
- - {title: "Teaching", file: "codes.md"}
+ - {title: "Teaching", file: "teaching.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:bgkagy@ncsu.edu"}
