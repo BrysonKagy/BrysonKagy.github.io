@@ -8,6 +8,8 @@ My research area is global sensitivity analysis (GSA), a subfield of uncertainty
 
 Black box models often come with large computational expense. In these cases, it makes more sense to work with a surrogate model instead. This process introduces two sources of error in the global sensitivity analysis. The first one is due to the approximation error of the surrogate and the second one due to the error in estimating the surrogate’s sensitivity indices. Sampling of the surrogate is often considerably cheaper than sampling the underlying model. However, this sampling can still be costly. In the best case, we can derive analytic formulas for the surrogate model.
 
-### Global sensitivity analysis of Bayesian inverse problems
+### Workshops
 
-When researchers want to make predictions about the spread of an epidemic or about the trajectory of a hurricane, they have a model framework to describe these dynamics. However, they do not know which model parameters will reproduce their observations. An inverse problem is one where we hope to find those model parameters, and therefore the entirety of the dynamics, from the observations we have. Since data collection involves some measurement noise, it is important to estimate the uncertainty of our predictions. This motivates the Bayesian framework where model parameters are treated as random variables. 
+Joint MSRI-BIRS Graduate Summer School - Sums of Squares Method in Geometry, Combinatorics and Optimization. (BIRS) Kelowna, Canada, Summer 2022
+
+### Presentations
