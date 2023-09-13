@@ -34,22 +34,24 @@ Fall 2016 Recitation leader for Math 1551 Calculus 1 at Georgia Tech
 
 
 ### Outreach
-Gov school
+Instrucctor at the Nortyh Caroilina Goivernos's Hionoirs school - Raleigh, NC Summer 2023
 
-Emory math circle
-
- Fall 2019&\textbf{Math Doesn't Bug Me} & Raleigh, NC \hspace*{0.16 in}\\
+Math Doesn't Bug Me - Raleigh, NC Fall 2019
 
   \vspace{0.1 in}
     &\multicolumn{2}{p{5.05in}}{ Volunteered to help with the math department's exhibit at the  BugFest at the NC Museum of Natural Sciences. I helped design a couple of interactive games that taught some basic graph theory to children. I helped run these games on the day of the event.}\\
     
-Fall 2018-Spring 2019 Mathapalooza Exhibit Atlanta, GA
+Emory math circle Teaching assiaatnt - Atlanta, GA Summer 2019
+
+ 
+Mathapalooza Exhibit- Atlanta, GA Spring 2019 
 Event at Atlanta Science Festival 2019
 Advisor: Dr. Evans Harrell
 Designed a new exhibit for the Atlanta Science Festival. Mathapalooza was an
 immersive public event with math puzzles, stage shows and art installations aimed
 to foster math appreciation in Atlanta students.
-Fall 2018 Seven Bridges of K¨onigsberg Show Atlanta, GA
+
+ Seven Bridges of K¨onigsberg Show - Atlanta, GA Fall 2018
 Math in Motion Exhibition
 Advisor: Dr. Evans Harrell
 Created and presented interactive exhibits explaining foundational concepts in graph
