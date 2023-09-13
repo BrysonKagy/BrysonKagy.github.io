@@ -20,8 +20,13 @@ Joint MSRI-BIRS Graduate Summer School - Sums of Squares Method in Geometry, Com
 
 ### Presentations
 2023  Meeting on Applied Algebraic Geometry, Poster "Equidistant Circular Rooted Split Network Space" 
+
 2019 Joint Mathematics Meeting, Poster “Fair Division for Drawing Legislative Districts”
+
 2019 National Conference on Undergraduate Research, Talk: “Fair Division for Drawing Legislative Districts”
+
 2018 SIAM LA-TX conference, Talk: “Fair Division for Drawing Legislative Districts”
+
 2018 Joint Mathematics Meeting, Poster: “One-Bit Johnson-Lindenstrauss Lemma”
+
 2017 Young Mathematicians Conference, Poster: “One-Bit Johnson-Lindenstrauss Lemma”
