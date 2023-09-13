@@ -32,7 +32,6 @@ Fall 2016 Recitation leader for Math 1551 Calculus 1 at Georgia Tech
 
 
 
-
 ### Outreach
 Instructor at the North Carolina Governor's Honors school - Raleigh, NC Summer 2023
 
