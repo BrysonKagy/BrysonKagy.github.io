@@ -16,6 +16,7 @@ that the main theorem in a previous work by Rhodes and Sullivant applied to. Thi
 
 ### Workshops
 IMSI Long Program- Algebraic Statistics and Our Changing World. Chicago,  Fall 2023 
+
 Joint MSRI-BIRS Graduate Summer School - Sums of Squares Method in Geometry, Combinatorics and Optimization. (BIRS) Kelowna, Canada, Summer 2022
 
 ### Presentations
