@@ -2,6 +2,8 @@
 layout: page
 title: "Teaching"
 ---
+ Spring 2024 Instructor of Record  for Math 103 Intro to Contemporary Math at NC State, Preparing the Professoriate
+
  Fall 2023 Instructor of Record  for Math 103 Intro to Contemporary Math at NC State
 
 Spring 2023 Instructor of Record  for Math 103 Intro to Contemporary Math at NC State
