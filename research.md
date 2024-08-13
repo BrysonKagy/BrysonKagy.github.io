@@ -17,11 +17,16 @@ that the main theorem in a previous work by Rhodes and Sullivant applied to. Thi
 ### Workshops
 ICERM semester program- “Theory, Methods, and Applications of Quantitative Phylogenomics”, Fall 2024
 
+University of Hawaii Algebraic Methods in Phylogenetics Workshop, Summer 2024
+
+AMS MRC on Algebraic Combinatorics- Summer 2024
+
 IMSI Long Program- Algebraic Statistics and Our Changing World. Chicago,  Fall 2023 
 
 Joint MSRI-BIRS Graduate Summer School - Sums of Squares Method in Geometry, Combinatorics and Optimization. (BIRS) Kelowna, Canada, Summer 2022
 
 ### Presentations
+2024 International Symposium on Symbolic and Algebraic Computation, Poster: "A Description of the Polyhedral Geometry of Equidistant Phylogenetic Networks"
 
 2024 Graduate Student Meeting in Applied Algebra and Combinatorics, Poster: "A Description of the Polyhedral Geometry of Equidistant Phylogenetic Networks"
 
